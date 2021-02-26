@@ -1,0 +1,27 @@
+<html>
+<head> <title> HOME PAGE </title> </head>
+<body>
+
+<p align="center">
+<body background="pollution.jpeg">
+
+<p align="left">
+<font color="blue", size="5", face="Times New Roman">
+<br>
+<b> <u> Home Page </b> </u> </font></left>
+<p align="center">
+<font color="blue", size="18", face="Times New Roman">
+<br>
+<i> "stopping pollution is the best solution" </i> </font></center>
+<align="center">
+<font color="blue", size="5", face="Times New Roman">
+<br>
+(TODAY AND TOMORROW) </font></center>
+<p align="center">
+<img src="airpollution.2", width="900", length="900"> </img>
+<p align="center">
+<font face=Adobe Gothic Std, font size="5", font color="blue"><b>
+<marquee>"Be smart, start the change, first step educate yourself"</marquee></font></b>
+
+</body>
+</html>

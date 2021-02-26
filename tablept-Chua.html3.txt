@@ -1,0 +1,47 @@
+<html>
+<title><head> TABLE </title></head>
+<body>
+
+<body bgcolor="red">
+<table border="1">
+<th colspan="2"><center> CAUSES & SOLUTIONS </center></th>
+<tr>
+<th> WHAT CAUSES AIR POLLUTION </th>
+</tr>
+
+<tr>
+<td> 1. Burning of biodegradable waste </td>
+</tr>
+<tr>
+<td> 2. Smoking (cigarretes or vape) </td>
+</tr>
+<tr>
+<td> 3. Smoke from public transport vehicles </td>
+</tr>
+<tr>
+<td> 4. Deforestation </td>
+</tr>
+<tr>
+<td> 5. Illegal mining </td>
+</tr> 
+
+<th> SOLUTIONS FOR AIR POLLUTION </th>
+<tr>
+<td> 1. Saving electricity </td>
+</tr>
+<tr>
+<td> 2. Reuse, Reduce, Recycle </td>
+</tr>
+<tr>
+<td> 3. Avoid using plastic bags </td>
+</tr>
+<tr>
+<td> 4. Reduce the rate of smoking and forest fires </td>
+</tr>
+<tr>
+<td> 5. Avoid the usage of fireworks or crackers during special occasions </td>
+</tr>
+
+</table>
+</html>
+</body>
